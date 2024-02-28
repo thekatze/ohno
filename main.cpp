@@ -1,5 +1,5 @@
 #include "GLFW/glfw3.h"
-#include "webgpu/webgpu_cpp.h"
+#include <webgpu/webgpu_cpp.h>
 
 import std;
 
